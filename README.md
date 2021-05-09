@@ -1,2 +1,2 @@
 # Eternity-Mod
-The Eternity Mod is a Terraria Mod that adds tons of content including enemies, bosses, town npcs, items, armours, accessories, weapons and much more!
+The Eternity Mod is a Terraria Mod that focuses on content as well as Quality of Life changes. The Eternity Mod adds tons of new bosses, enemies, two biomes, structures, and a new gamemode, Nightmare Mode. It also adds tons of Items such as materials, furnitures, weapons, armors, tools, accessories and so mucn more. It will add hours of more content for you to discover and progression stretches out through the entire game including prehardmode, hardmode and post-moon lord. 
