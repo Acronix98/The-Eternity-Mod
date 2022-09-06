@@ -1,2 +1,2 @@
 # The Eternity Mod
-The Eternity Mod is a tModLoader Mod for Terraria created by Acronix98.
+The Eternity Mod is a tModLoader mod for Terraria created by Acronix98.
