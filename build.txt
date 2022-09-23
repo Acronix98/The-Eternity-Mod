@@ -1,0 +1,6 @@
+
+displayName = The Eternity Mod
+author = Acronix98
+version = 2.0
+buildIgnore = *.csproj, *.user, obj\*, bin\*, lib\*, .vs\*, *.gif, *.piskel, Unused\*
+modReferences = CollisionLib, SubworldLibrary, ParticleLibrary
