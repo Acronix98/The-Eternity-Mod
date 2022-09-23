@@ -1,4 +1,3 @@
-
 displayName = The Eternity Mod
 author = Acronix98
 version = 2.0
