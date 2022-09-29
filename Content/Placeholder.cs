@@ -8,14 +8,14 @@ namespace Eternity
         public override string Texture => "Eternity/Placeholder";
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Null");
+            DisplayName.SetDefault("Placeholder");
         }
 
         public override void SetDefaults()
         {
             Item.width = 16;
             Item.height = 16;
-            Item.maxStack = 999;
+            Item.maxStack = 9999;
             Item.useTurn = true;
             Item.autoReuse = true;
             Item.useAnimation = 15;
