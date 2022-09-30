@@ -1,0 +1,12 @@
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Eternity.Particles;
+using Eternity.Tiles;
+using System;
+using ReLogic.Graphics;
+using Terraria;
+using Terraria.DataStructures;
+using Terraria.GameInput;
+using Terraria.ID;
+using Terraria.ModLoader;
+using Terraria.UI.Chat;
