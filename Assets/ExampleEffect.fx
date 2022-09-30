@@ -49,6 +49,3 @@ technique Technique1
 		PixelShader = compile ps_2_0 PixelShaderFunction();
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
