@@ -1,8 +1,8 @@
 using System.ComponentModel;
 using Terraria.ModLoader.Config;
 
-namespace SpiritMod.Utilities
+namespace Eternity.Utilities
 {
 	[Label("Music Config")]
-	class SpiritMusicConfig : ModConfig
+	class EternityMusicConfig : ModConfig
 	{
