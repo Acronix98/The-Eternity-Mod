@@ -6,9 +6,9 @@ using Terraria.Utilities;
 
 namespace Eternity
 {
-	public static class SpiritUtils
+	public static class EternityUtils
 	{
-		public static MyPlayer GetSpiritPlayer(this Player player) => player.GetModPlayer<MyPlayer>();
+		public static MyPlayer GetEternityPlayer(this Player player) => player.GetModPlayer<MyPlayer>();
 
 		public static bool IsUsingAlt(this Player player) => player.altFunctionUse == 2;
 
