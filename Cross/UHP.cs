@@ -1,1 +1,1 @@
-Ultimate Helpers Pack
+Ultimate Helpers Pack is a Terraria mod for tModLoader created by Acronix98.
