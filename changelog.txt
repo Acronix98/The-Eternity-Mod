@@ -1,6 +1,9 @@
-v2.0.0: Remastered
+-VERSION-
 
 #Additions#
+
 #Changes#
+
 #Fixes#
+
 #Deletions#
