@@ -7,6 +7,6 @@ using Terraria.ModLoader.Config;
 namespace Eternity.Utilities
 {
 	[Label("Client Config")]
-	class SpiritClientConfig : ModConfig
+	class EternityClientConfig : ModConfig
 	{
 		public override ConfigScope Mode => ConfigScope.ClientSide;
