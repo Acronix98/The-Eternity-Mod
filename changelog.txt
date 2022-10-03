@@ -1,9 +1,9 @@
 -VERSION-
 
-#Additions#
+# Additions #
 
-#Changes#
+# Changes #
 
-#Fixes#
+# Fixes #
 
-#Deletions#
+# Deletions #
