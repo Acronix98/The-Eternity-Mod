@@ -86,4 +86,4 @@ namespace Eternity
 			layers.Add(newPlayerLayer);
 		}
 	}
-}
+
