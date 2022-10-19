@@ -1,3 +1,10 @@
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
-using Microsoft.Xna.Framework.Input;
+using Terraria.ModLoader;
+
+namespace Eternity
+{
+	public class Eternity : Mod
+	{
+	}
+}
+Footer
+©
