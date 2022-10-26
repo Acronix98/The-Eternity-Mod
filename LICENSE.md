@@ -1,1 +1,0 @@
-Acronix98's Mods are open source modules, anyone is free to use my code but it must be altered. It is not permitted to directly rip code without changing it for any other projects. Thank you for your cooperation.
