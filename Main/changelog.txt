@@ -1,4 +1,4 @@
-### VERSION
+- VERSION -
 
 # Additions #
 
@@ -6,4 +6,6 @@
 
 # Fixes #
 
-# Deletions #
+# Removals #
+
+# Other #
