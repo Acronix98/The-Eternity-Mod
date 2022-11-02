@@ -1,4 +1,4 @@
--VERSION-
+### VERSION
 
 # Additions #
 
