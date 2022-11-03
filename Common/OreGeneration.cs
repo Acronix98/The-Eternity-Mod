@@ -1,5 +1,3 @@
-
-
 using Microsoft.Xna.Framework;
 using Eternity.Content.Items.Consumable.Tiles.Ores;
 using System.Collections.Generic;
