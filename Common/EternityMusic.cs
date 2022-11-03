@@ -3,6 +3,6 @@ using Terraria.ModLoader.Config;
 
 namespace Eternity.Utilities
 {
-	[Label("Music")]
-	class EternityMusic : ModConfig
+	[Label("Music Config")]
+	class EternityMusicConfig: ModConfig
 	{
