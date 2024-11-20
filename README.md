@@ -1,2 +1,2 @@
 # The-Eternity-Mod
-A Terraria mod for tModLoader.
+A Terraria mod on tModLoader.
